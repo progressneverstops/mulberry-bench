@@ -1,0 +1,4 @@
+.build/
+results/
+BENCHMARK_RESULTS.md
+.DS_Store

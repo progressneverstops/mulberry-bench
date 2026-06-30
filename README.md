@@ -7,7 +7,7 @@ so you don't have to take anyone's word for the numbers.
 No account. No sign-up. No SDK. Local runs make **zero network calls** and need **no key**.
 
 ```bash
-git clone <this-repo> && cd MulberryBench
+git clone https://github.com/progressneverstops/mulberry-bench && cd mulberry-bench
 swift run mulberry-bench --suite ollama     # 100% local, offline
 ```
 
